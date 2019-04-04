@@ -1,4 +1,6 @@
 
+setwd("/Users/thomastallaksen/Documents/R/Prosjekter/Poli Sci 452 - Text as Data/Allison")
+
 
 
   urls <- (c(  

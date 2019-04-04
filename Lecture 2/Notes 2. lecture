@@ -1,0 +1,32 @@
+Notes from 2. lecture
+
+Document term matrices
+N x J
+
+Need .txt file. 
+Metadata and content.
+
+Sources of text:
+https://www.jstor.org/dfr/
+  - Gives document term matrices.
+Lexis nexis
+APIs
+OCR and scraping
+Amazons mechanical turk
+
+Regexes short intro, will publish cheat sheet. 
+
+WCopyFind - Finds plagiarism with regexes.
+
+DTM simplify texts and lower the dimensionality. 
+
+Preprosessing: 
+1. Remove capitalization
+2. Discard Word Order
+3. Remove stop words
+4. Create Equivalence Class: Stem, lemmatize, or synonym
+5. Discard less useful features
+6. Other reduction, specialization
+
+Be cautious with stop word lists. Some remove gender nouns. 
+

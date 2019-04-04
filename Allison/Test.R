@@ -1,22 +1,38 @@
 
-setwd("/Users/thomastallaksen/Documents/R/Prosjekter/Poli Sci 452 - Text as Data/Allison")
+library(tidyverse)
+  
 
-
-
-  urls <- (c(  
-  
-  "http://www.kcab.or.kr/jsp/comm_jsp/BasicDownload.jsp?FilePath=ncpform/f_0.72939224258533911483793426959&orgName=161230%20KNCP_Final%20Statement_AG.pdf",
-  
-  "https://pcnitalia.mise.gov.it/attachments/article/2035928/Initial%20assessment%20FIOM-CGIL%20BEKAERT.pdf", 
-  
-  "https://economie.fgov.be/sites/default/files/Files/Entreprises/Communique-Evaluation-Initiale-Adimed-PCN-belge.pdf", 
-  
-  "http://www.kcab.or.kr/jsp/comm_jsp/BasicDownload.jsp?FilePath=ncpform/f_0.74228457910761461544055886093&orgName=(%BA%B8%B0%ED%BE%C8%B0%C7)%20Final%20Statement%20(Corning)_Eng4%A1%DA.docx"
-  
-  ))
+  # for (url in urls) {
+  #   download.file(url, destfile = basename(url))
+  # }
   
   
-  
-  for (url in urls) {
-    download.file(url, destfile = basename(url))
+  scraplinks <- function(url){
+    # Create an html document from the url
+    webpage <- xml2::read_html(url)
+    # Extract the URLs
+    url_ <- webpage %>%
+      rvest::html_nodes("a") %>%
+      rvest::html_attr("href")
+    # Extract the link text
+    link_ <- webpage %>%
+      rvest::html_nodes("a") %>%
+      rvest::html_text()
+    return(data_frame(link = link_, url = url_))
   }
+  
+  links <- scraplinks("http://mneguidelines.oecd.org/database/instances/")
+  
+  links_instances <- links%>%
+    filter(str_detect(url, "/database/instances/"))%>%
+    filter(str_detect(url, ".htm"))%>%
+    mutate(full_url = paste("http://mneguidelines.oecd.org", url, sep = ""))%>%
+    select(link, full_url)
+  
+  
+  webpage <- xml2::read_html("http://mneguidelines.oecd.org/database/instances/cl0003.htm")
+  
+  
+  # <tr><th>Summary</th><td><p>In April 2007 the Chilean NCP received a request for review from the Chilean Trade Union Confederation (CUT) alleging that ISS Facitliy Services, a Danish multinational Enterprise, had breached employment and industrial relations provisions of the Guidelines by its treatment of staff. It was alleged that ISS did not recognise the collective bargaining agreement of staff which had been outsourced to the company and had insisted that workers accept working conditions below the legal norm and to quit the trade union.<br /><br />The specific instance has been concluded due to lack of action from the trade union parties.</p></td></tr>
+  #   </tbody>
+  

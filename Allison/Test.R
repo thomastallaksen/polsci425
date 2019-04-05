@@ -1,10 +1,8 @@
 
 library(tidyverse)
 library(rvest)
-  
 
 
-  
   scraplinks <- function(url){
     # Create an html document from the url
     webpage <- xml2::read_html(url)
@@ -25,14 +23,19 @@ library(rvest)
     filter(str_detect(url, "/database/instances/"))%>%
     filter(str_detect(url, ".htm"))%>%
     mutate(full_url = paste("http://mneguidelines.oecd.org", url, sep = ""))%>%
-    select(link, full_url)
-    
-  summary <- function(url){
-    # Create an html document from the url
-    webpage <- html(url)
-    # Extract the summary
-    summary_ <- webpage%>%
+    select(link, full_url)%>%
+    mutate(html = map(full_url, read_html))
+                    
+  summary <- function(html){
+    summary <- html%>%
       rvest::html_nodes("p") %>%
       rvest::html_text()
-    return(data_frame(summary = summary_))
+    return(summary)
   }
+  
+link_summary <- links_instances%>%
+  mutate(text = map(html, summary))%>%
+  select(link, full_url, text)%>%
+  unnest()
+
+write_csv(link_summary, "Allison/summary_texts.csv")

@@ -14,5 +14,5 @@ datalist <- lapply(filelist, function(x)ocr(x))
 
 datafr = do.call("rbind", datalist) 
 
-
+lapply(datalist, function(x)write.table(x, paste(x, ".txt", sep = "") , sep="\t"))
 

@@ -2,7 +2,7 @@ library(tesseract)
 library(tidyverse)
 library(pdftools)
 
-setwd("C:/Users/py32/Desktop/OCR/Test/pdf")
+setwd("~/Desktop/OCR/Test/pdf")
 
 filelist_pdf <- list.files(pattern = ".*.pdf")
 datalist_pdf <- lapply(filelist_pdf, function(x)pdf_convert(x, dpi = 600))

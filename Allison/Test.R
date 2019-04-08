@@ -28,7 +28,7 @@ library(rvest)
                     
   summary <- function(html){
     summary <- html%>%
-      rvest::html_nodes("p") %>%
+      rvest::html_nodes("p")%>%
       rvest::html_text()
     return(summary)
   }

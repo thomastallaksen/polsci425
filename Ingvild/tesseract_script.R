@@ -14,3 +14,5 @@ datalist <- lapply(filelist, function(x)ocr(x))
 
 datafr = do.call("rbind", datalist) 
 
+#Vi tester å pushe endringer fra Ingvild
+

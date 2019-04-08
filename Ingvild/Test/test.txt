@@ -1,0 +1,1118 @@
+"V1"
+"1"	"How Newspapers Reveal Political Power*
+Pamela Ban!
+Harvard University
+Alexander Fouirnaies*
+Niufild College, Oxford University
+Andrew B. Hall’
+Stanford University
+James M. Snyder, Jr
+Harvard University and NBER
+July 10, 015
+Abstract,
+Politica cen x lage part the at of power, Dt power a ul to ane
+We org tnt cat Remap cveage prs, the tae stat of pa
+Seco pola atrs al eis, We te» ew dtaset containing ney 30 allo sere
+Swaps pas om 2.70 local US newport year APF IOP, We dead
+{Inoue a miacure of ower we velop ined on observed vd equ, and we aia
+Cinugh acre if tae Oval we fd in the tlt een foliar and
+{Eyl cts song astra yl pone fre esse stay. To tate is
+int thn powers Tan tet, the paper sh ight onthe nef pola news coverage
+"
+"2"	"to measure the “mnfuo” of committe, We would imagine th two are coreated, but not pefoety
+(es. some members may plc high value on a committe for porl-bumdling reasons even though
+other conmttes have more “power” due to broader jurisdictions or juisitions over pois that
+affect more people). While their transfer-basd rankings not a drot measnr of power, desirability
+tends to revel power, and so this isa close measure that we can nse to test our coverage-based
+
+For this analysis we study newspaper coverage of 19 committees across or tine period, 1877
+10977. Those 19 committos are the ones from the st analyzed by Groseclse and Stewart (1098)
+tht ae active thought this period, For each committe, we collec the total mmber of mentions
+of ach ofthese committee and standardize by dividing each count by the total mimber of mentions
+of all 19 commitoes.¥ Tati tting Committe: bo the total mentions of committe i, we define
+
+Fae Comat Commit = pe —
+
+Figure 1 show the Groseckne Stewart ranking against our coneage-based ranking, calculated
+forthe time period during which the two measures overlap. Most all ofthe commits lie arom
+tho 45 depo line, showing lose match between our ranking and the Grosclose-Stowart ranking
+Indeed, the conelation between the two rankings is 0.71. Ways and Means, Appropriations, and
+Riles are ranked atthe top asthe top thre, confirming their lace ns the most powerful and vale
+
+(Our corerage-based power measure, when applied to Congressional committes is highly co
+Intod with the Groseloso Stewart nnking. While we reiterate that the Grosclose- Stewart ranking
+is based on measuring the desirability of commits, as discussed previonsly we below that this
+isa olevnt alternative measure with which wo can compare our covrago-ased power measre.
+Furthermore, we baliowe that several ofthe Youths’ go in our favor. For example, the Com
+nittoo on Honse Adninistration is rankod higher inthe Grosclose- Stewart ranking than in our
+coveagebaeed ranking. Hoe Admiral i probubly quite weak rather than poet, n
+tho sense that its jurisdiction, ovenuenising ability and influence over policy oncom is Hite,
+thongh it may be more “desirable” to members of the Howse since, aftr al, it deals with Honse
+
+9
+"
+"3"	"Figure 1 — Committee Rankings, 1949-1973, The newspaper-based ranking
+
+of Congressional committees comespons closely to the Gronelowe Stent ranking
+
+ase on mene preferences
+suatters (and people care about themselves). Another outlier worth mentioning is the Judiciary
+‘Committee. Judiciay ranks high based on our coverage-based measure, but ranks near the middle
+in the GrosecloseStewart ranking. A. posible contributor to this divergence is Watergate, which
+‘was highly covered in the pres ‘This represents one of the limitations of our measure — since
+‘our measure is based on relative press coverage, any “sensational” event that temporarily inereases
+press coverage ofa political actor or group even though the underlying power of that actor oF group
+remains the same would result in measurement errr. Inthe case of Judiciary, was the increase in
+coverage exchsively due to the sensational nature of Watergate, ordi the Judiciary Committee
+at thot time truly hold a significant increase in the amount of power, since they were presented
+‘with a rare instance in which they could use their power over the impeachment of a president?
+‘This example reflects the need to careflly apply our measure andl consider possible explanations
+for sharp fluctuations
+
+0
+"
+"4"	"Finally, there is a possible concern that hoth measures reflect only the behavior of legislators.
+If members of Congress seo out news exposure, then the correlation between the preference-based
+‘rankings and newspaper coverage may simply be an artifact of this behavior, regardless of why
+certain committees receive more coverage. Although we may have good reasons to think that
+press coverage focuses on more important committees, this concern reflects « general problem
+in correlating existing measures with our own. As a result, in the subsequent sections, we also
+investigate a variety of eases in which, rather than comparing measures, we look at observable de
+jure shifts in power and link them to changes in our measute,
+4.2 Congressional Party Leaders
+In this subsection, we use the news coverage of Speakers of the U.S. House to validate our power
+measure for political actors. Political leaders not are randomly selected from the pool of legislators.
+Presumably leaders ate selected because of their skills and qualities, and these in turn probably
+Lelp them attract media attention. A simple comparison of the news coverage of lenders and rank
+and-file legislators would pick up many systematic differences between the two groups that are not
+necessarily reflecting their power
+Instond wo use a simple within-leislator design to validate our power measure. We focus on
+‘the group of legislators who serve as party leaders at some point in their career, and compare how
+‘they are covered in the newspapers before, during and after the period in which they are in power.
+If news coverage is a good measure of power, we would expect to see a substantial increase in the
+coverage of individual members of Congress in the periods during which they serve as party leaders.
+‘To implement this test, we search our newspaper database for the surnames of Speakers of the
+House and minority-party leaders from 1877-1977, and count how often they are covered in the
+news before, during and after their leadership term. To reduce the number of false positives, we
+‘only count eases in which the word stem “congress” appear within a window of 5 words from the
+surname, as woll as eases in which one of the words “representative,” “rep.\", shon.\", speaker,” or
+eadet” appears immediately before the surname, and cases in which either of the party identifiers
+(D” or “(RY appears immediately after the surname.!?
+sry acacr newspapers este paper eer a Democratic repeesuttivs ring (D)\" whe ber newspapers
+he (Dem or “(D-Congresonal Distt).
+u
+"
+"5"	"Figure 2 _ News Coverage of Speakers of the House, Before, During,
+fand After Spenkership, Newspaper coverage nerves, often dramatically, while
+‘menibers ae tn postions of paver. Gray lines represent vidual Speakers; thicker
+sen line indicates average aerss all observations
+Figure 2 illustrates the main results. The figure plots in gray the the number of mentions each
+Speaker of the House in our datasot reecives before becoming Speaker, while serving as Speaker,
+and after serving as Speaker. A thicker green line indicates the average aeross all Speakers. As the
+figure shows, almost all members see a mavked increase in coverage while they are Speaker
+‘To examine the pattern more systematically, we count the aumber of hits for all Speakers and
+tminority-party leaders during the period 1877-1977. In Table 1, we report the average yearly number
+of hits five vears before, during and five years after the leadership period.** Two things are worth
+noting. First similar to the results presented in Figure 2, Panel A shows that on average the news
+‘coverage of members of Congress increases by au order of magnitude when they serve as Speakers.
+Second, we see a similar pattern for minority-party leaders! When a member of Congress is
+appointed to leader of the minority party, the member roccives more coverage in the newspapers.
+However, the media boost for minority-party leaders is not quite as big as the boost enjoyed by
+Speakers. ‘This diference probably releets that Speakers are more powerful than minority-party
+leaders. Overall, the results presented in Table 1 further supports the idea that power is reflected
+in the newspaper coverage,
+{hon they wese ne in power) as elonging tthe pt aero. None othe sets ae seit to thie
+R
+"
+"6"	"‘Table 1 News Coverage Before, During and After Leadership Term,
+Serving as party lender substantially increases the news coverage of members of
+Congres
+Panel A: Speakers
+Before During After
+Hits Bol sal aaa
+(61.00) (502.41) (88:12)
+Difference 272.37 “aa
+Pale 0.00 0.00
+N sous os
+Panel B: Minority Leaders
+Hits ars iseT arr
+(31.96) (100.14) (75.72)
+Difference 115.02 “a
+Pawlie 0.00 0.00
+N 2 a0 2
+“Siandad deviations ae Toported
+parentheses. The pre and post-Speaker
+periods are based on 5 years before and
+after the Speaker term.
+4.3 Strong vs. Weak Mayors
+We now turn to the analysis of “strong” vs. “weak” mayors. ‘Traditionally, cites in the US,
+‘operated under the mayor-councl form of government. In this form the mayor and city council are
+separately elected offices, and the mayor is the head of the executive branch, with broad powers to
+‘appoint and dismiss department heads, prepare and adusinister the city budget, and so on, This is
+the “strong mayor” form, Beginning in the early 20th century and continuing throngh today, many
+cities switehed to the council-manager form of government. In this form the city council is the
+‘only directly elected body, and it appoints a city manager to oversee the operation of the executive
+branch, ‘The mayor may be separately elected or selected by the city council from from within its
+ranks, but has little of no executive authority, Some directly elected mayors have veto power, and
+some mayors have agenda-setting power inside the ity council, but in many council-manager cities
+8
+"
+"7"	"the position is largely ceremonial! According to the Municipal Year Book; in 1984 about 5456
+of cities with populations over 2,500 operated under the mayor-conneil form of government and
+about 35% operated under the eouneil-manager form?
+
+For this analysis we study newspaper coverage of thee local ofices: mayor, city count, and city
+manager. For each newspaper i we collect the total number of mentions ofeach of these ofies in
+cach year £1 Denote these by Mayor, Council aud Manager, respectively. We then construct
+throe variables
+
+Mayor
+Relative Coverage of Maser = Tiree Cig Manager , + City Coumeli,”
+tive Coverage of City Manager = Coty Manager, _
+Relative Coverage of Cty Manoaers = Tie City Manager, + Oly Cownely”
+fs _ City Counesle
+Felative Coverage of Cty Counc = Tio Cay Manager + Cy Cowal,
+Since the position of city manager position does not even exist in a ety prior to the adoption of
+‘ councibmanager form of goversment, coverage of this office may “automatically” increase. (Of
+course, if the postion has ite actual power, then coverage might not increase, oF might increase
+conly slightly. For example, minor bureaucratic positions in national, state, and local governments
+are constantly be ereated and eliminated and these changes are not reflected in newspaper coverage
+‘because they are too unimportant to be covered.) We therefore also construct a fourth variable
+‘that only compares the coverage of the mayor and the eity council, hoth of which exist before and
+after the reform:
+_ Mayor
+Relative Coverage of Mayor os. Counely = 5y—— err
+
+We alo identify the year in which the home city of each newspaper switched its form of gov-
+crument from the strong mayor (mayor-couneil) form to the weak mayor (eouncl-manager) form.
+“Aeceing to 109 vey te National Cv Lagu, 61 af eomermanager ets ave popularly lected
+
+‘yor and in 11% of Uh the mayor grad velo power, See itr lynne com goneremes me
+4
+"
+"8"	"Som cities never switched, or switched in a year outside the period for which we have loca news
+paper coverage. These are not included inthe figures, although they ean be inched in the panel
+regressions (to help estimate the year fxed-leets),
+
+For each ity, define year 1 as the fist yoar the city operated under the counel-manager frm
+cf government rather thon the mayor-couneil form. Figure 3 shows the average wlles of the
+Relative Coverage viable over the 20 yeas before and after the changes in the form of government,
+pooling overall cities that switched, ‘Two time series ate displayed. ‘The fist in green cicls,
+reflects the “tretisent pth” that is, treated cities before and after they enact the reform. The
+second series, in gray squares, represents the dilferencein-difereuces “contol” series. ‘This is
+computed as the average, fr each your, ofall cities that have not enacted the reform yt
+
+[Bvidently, there is a dramatic change in coverage due to the change inthe form of government.
+‘The Relative Coverage of Mayor vatiable, plotted in the top left pane, falls sharply for reform
+cities, fom about 80% of the mentions ta only about 505. ‘This drop is much sharper than that
+dlsplayed inthe contol cities over the same tine period.
+
+\"This lange drop, and wane likely understating its magnitude du to several features of the
+data, Fist, some reforms acoureatlior oF later in the calendar yer, so that the last year before
+“treatment” may be a combination of pre-and post-reform coverage. ‘This isa likely reason why
+the final pre-reform point in the plot is somewhat lower than those before it. Second, thongh we
+Ihave en cateful to nse contextual words to avoid too many flue potive its for “mayor,” we ae
+likly to stil be including fair musuber, and these are more Hkely to preset a higher proportion
+ofthis after reform than before
+
+‘The Relative Coverage of City Manager variable, plotted in the top right pane, increases sharply,
+from only about 5% ofthe mentions to more than 25%. Agia, this change is far srpor than that
+displayed in the contol cities. Again, we are ily understating the magnitude of this incre
+‘The final pre-eform point, like in the previous plot, appears to be anticipating some of the effect
+of the reform-Iikely dein part to anticipatory coverage ofthe reform itself, but also because of
+‘the remaining errors of timing and fale positives discussed in the previous paragraph.
+
+It is les clear what to expect neganding Relative Coverage of City Council, although we sight
+expect to soe a inctease in coverage since the city council s the body with the power to appoint
+and dismiss the city manager. Th bottom let panel of Figure $ shows that mentions of the ety
+
+6
+"
+"9"	"Figure 8 - Relative Coverage of City Offees Over The, City neat
+‘sr are cen ord the nnnted power of ins and een tat of.
+a . .
+a
+‘SoeOE Aco gao
+i et,
+ae Pe octsc255e
+oot i
+rea
+conc tend upmard ovr the yous before and after the switch tothe coseib-mannge form of
+overnment, although there sno dscontiniows jump ard the year the atch took plac
+Finally the bottom right panel of the figure invstgnes the coverage of mayors ative only to
+the city connel, excluding dineusion of ty mangers ‘This adress the posit that therein
+suochanical” fal inthe relative coverage of mayors nd a concomitant isin tho ative coverage
+of city managers, simply becans the phrase “city manager” enters the public lexicon. Excluding
+city manager counts to avid this potential issue, we conte tose a decrease in the coverage of
+mayors aftr therefor
+6
+"
+"10"	"‘Many of the mentions ina given city’s newspaper refer to the mayors, city managers, and city
+councils of other cities. This is one reason that Relative Coverage of Mayor remains at a rather
+Ihgh level even after a city switches to the council-manager form of government. Unfortunately,
+filtering ont these mentions is dificult. In the Appendix in Figure A.8, we attempt to improve the
+analysis, We do so by limiting attention to mentions in which the name of the newspaper's home
+city appears near the relevant search string (Suayor” or “city manager” of “ity council”) The
+basic patterns are the same as above.
+
+‘Tuble 2 presents regression results forthe full set of cities in omr sample (not just those that
+banged government form) Let Couneil~ Manager Gout Formy be 1 if ety ¢ operated under the
+council-manager form of government in year f and 0 if city # operated under the mayor-counel
+form, We exploit the panel structure of the data, and the fact that different states adopted the
+reforms in different years, using a dilference-indifferences approach, More specifically, we include
+city and year fixed-ffects in all specifications, and estimate models of the form:
+
+Relative Coverage of Mayor, = 0, + % + 8Council Manager Govt Formy + 64
+
+[Not surprisingly, the estimates in Table 2 confirm the patterns shown in Figures 3 and A.3,
+‘and also show that the estimated changes in Relative Coucraye are highly statistically significant.
+‘The Relative Coverage variables appear to capture rather well the clear change in relative power
+associated with the changes in city government structure. In the Appendix, we also re-estimate
+‘these esults including city-specifie time trends to relax the so-called “parall-trends” assumption
+of the diffin-diff. Results are highly similar. Again we see a large drop in the coverage of the
+
+tention to mentions in which the mane af the newspaper's home ity ofthe name ofthe mayor (or ey manage)
+7
+"
+"11"	"‘Table 2 Impact of Switch from Mayor-Couneil to Counell-Manager
+City Government. Results fron a difference-n-difereces design suggest that
+the reform eases large decrease inthe relative coverage of mayors
+Relative Relative Relative Relative
+Coverage of Coverage of Coverage of Coverage of|
+Mayor City Manager Mayor City Manager
+Govt Form (0.08) (0.06) (007) (0.05)
+x 2601 2601 1721 wat
+City Fixed Effects Yes Yew Yes Yes
+Year Fixed Effects Yes Yes Yes Yes
+4.4 The Massachusetts Executive (Governor's) Council
+‘The Massachusetts Governor's Council, also known as the Executive Council is composed of eight
+individuals elected from districts (plus the Lieutenant Governor who serves ex officio). ‘The eight
+councillor are elected from their respective distrits every two years.
+
+In 1964, Massachusetts voters passed ballot question that stripped the Pxecutive Counel of its
+statutory powers (the changes went into effect on December 3, 1964). ‘The reform followed a scandal
+in the late 19508 and early 1960s involving the sal of judicial positions; five members of the conti
+‘were eventually indicted on bribery and corruption charges. Prior to this, the governor needed to
+obtain the Counel’s approval for almost all gubernatorial appointments, all highway and waterway
+contracts, all land-taking by eminent domain, all state leases and rentals, to determine which banks
+could hold state funds in deposit, and to determine which out-of-state insurance companies could
+‘operate in the state, Starting in December 1964, the governor did not need Council approval for
+‘these actions. ‘The main powers left to the Exocutive Couneil were its constitutionally mandated
+powers, most prominently the power to confirm judicial appointments and pardons
+
+Most observers viewed the reform as a significant shift in power from the Executive Couneil
+to the governor's office. One journalist wrote: “stripping the council of all its statutory powers.
+clletively gives the governor fll and complete rein over the administrative functions of the state
+government.” Another noted that the next governor will have “more power than any since those
+
+1s
+"
+"12"	"1 Introduction
+
+At its core, politcal science isthe study of power. But empirical work on this fundamental subject
+is hampered by the fact that actually observing power is difiult. In this paper, we propose using
+newspaper coverage to address this obstacle. We intraduce a dataset containing ueatly 50 million
+Ihistorical newspaper pages from approximately 2,700 local U.S. newspapers distributed across a
+‘thousand counties over the years 1877-1977, and we uso it to develop a newspaper-based measure
+cof power, After laying out the measure, we validate it through a series of analyses that leverage
+historical reforms and other temporal and spatial changes in power across a wide range of political
+offices, including mayors, governors, members of Congress, and the presideney. ‘The result of these
+analyses is a plansible indicator of political power that applies to politcal actors and political offices
+‘over wide time period and across many contexts,
+
+‘Our idea can be captured with a simple thought experiment. First (if you live in the U.S.), ask
+youself: How many official state or local party leaders can I name? How many do I ead about
+regularly in the newspaper? In all likelihood, the answer to both ofthese questions is “zero.” Why?
+Because these positions are not powerful that is, they do not play much of a role in contemporary
+U.S. polities. Now imagine you wore a voter in late 1800s rather than the early 2000s, asking the
+same questions. Ifyou lived in New York it s likely that you would have read about leaders suc as
+Roscoe Conkling, Thomas C. Platt, John Kelly or Richard Croker. Similarly it is likely that you
+‘would have read about Simon Cameron or Matthew Quay if you lived in Pennsylvania, Zachariah
+‘Chandler if you lived in Michigan, John “Black Jack” Logan if you lived in linois, or Oliver P.
+Morton if you lived in Indiana. Why? Because these people mattered. ‘They wore porwerfl bosses
+‘who controlled scoess to many elected and appointed politcal offices in their states, and also had
+4 siquficant impact on which laws were passed and which were defeated, both nationally and at
+home. As a result, they appeared regularly in newspaper stories.
+
+We are not the first to see this link between newspaper coverage and power. Although me-
+dia coverage stems from many sources including the inevitable biases of newspapers themselves
+(Gentzkow and Shapiro 2010; Graseclose and Milyo 2005; Puglisi and Snyder 2011; Larcinese,
+Puglisi and Snyder 2007), as well as the demands of readership (Mullainathan and Shleifer 200;
+Gontzkow and Shapiro 2006) previous scholars have observed that media coverage is positively
+
+1
+"
+"13"	"Figure 4 Relative Coverage of the Massachusetts Executive Counell
+
+(Over Time. The refuem that stripped the Massachusetts Executive Counell of its
+
+powers appears to decrease the coverage of the Executive Counal relative to that
+
+fof the Governor, who absorbed the power previously held by the uel
+
+Note: ‘The plot omits the years 1959-1965, during which discussion of the council,
+
+Spiked because ofthe seandal
+of Colonial times... wide appointive and contractual powers previously controlled by the Pxecutive
+‘Council - and a four-year term in which to exercise them.
+
+‘The variables and analysis are analogous to those in the previous subsection. Suuming over all
+available Massachusetts newspapers, we collect the total nuuber of mentions of Executive Cou
+fr Governor's Council and the total mentions of Governor in each year 2° Denote these by
+Executive Council and Governor. We then construct the variable:
+
+souneit, - ___Eeeeutive Cowneily
+Relative Coverage of Excutive Council, = p_—Pewtne Cowes
+
+‘We drop the years of the scandal since some of the coverage ofthe Bxeeutive Conneil was about
+‘the scandal itself. Infact, Relative Coverage of Exceutive Couneil is higher during those years than
+during the 1957-1068 period,
+
+19
+"
+"14"	"Figure d presents the results, In the igure, we plot the relative coverage using the fall universe
+cf newspapers in our dataset, We see that there ix « notable dop in the relative coverage of the
+coil after the reform 2*
+
+4.5 The Reciprocal Trade Agreement Act
+
+In 1034 Congress passed and President Roosevelt signed the Reciprocal Trade Agreement Act
+(RTAA). This lay gave the President the authority to negotinte reciprocal tariff agreements with
+other nations. ‘These agreements could increase a decrease import duties by up to 50 percent,
+and didnot require congressional appro
+
+‘There is widespread agreement that this act represented a substantial transfer of power over
+tasif policy, from Congress to the President. For example, Haggard (1988: 112) writes that jn
+passing the RTA “the most important sues at stake in 1954 were institutional, centering om the
+transfor of authority frm Congress to the executive.” Inwin (1098 325) writes: “From the Civil
+‘Wor upto the Smoot-Hawley tari of 1980, Congress retained exclusive authority over US. tari,
+‘hich forthe most part consisted of a single-colun schedule of nonegotible, nondiscrimsinatory
+Import duties.. (With the RIAA], Congzess granted the president the authority to reach tif
+reduction agroements- agreements that dd not requize congressional approval-—with foreign cou
+tries.” Kaplan (1996: 45) writes: “the RTA Act would significantly reduce the power of Congeess
+Jn the taritfmaking process.
+
+As another check on the iden that media coverage can be use to measure power, we examine
+‘whether coverage of tariff policymiking shifted away from Congress and toward the President
+after the passage of the REAA. More specifically, to measure the coverage of Congress in tif
+policymaking we include all cases where “congress” of “house” oF “senate” appeared within Sve
+‘words of “tariff cll this Congress, Simsilaty, to mensure the coverage of the President in tif
+“woe nth ate We a tsps pag nets toe Se cee
++Crmges dwt cal jrnent sth fo mgs tee he Prec, tw he REAA to expe ee
+
+{he ngrement ws pecan)” Sex eg Fegan (2015) an Bey, Golden nd Wega (157)
+20
+"
+"15"	"Figure 5 - Relative Coverage of Congress in Tarif Polleymaking. ‘The
+
+Ihe power of Congres he ra of tari poly deen al afer
+
+‘he passage of the REAA,
+policymaking we include all ase whore “president” or “administration” appeared within five word
+fav” call this President. We thon make the share of coverage devoted to Congres in each
+time period
+
+Relative Coverage of Congress, = Setar
+ogre, + Presiden;
+Figure 5 shows a graph of Relative Coverage of Congres ove tine. We average over Sear periods,
+so th poin labeled 1990 covers the years 19901984, the pont lable 1935 covers 1935-199, et
+‘The figure shows clearly that newspaper coverage of Congres zlative to the President fll sharply
+ter 1934, Before the RTAA Congres had about about 35% af the mentions, while after the RTAA,
+this fal to only about A056 of the mentions. This what we expect fate newspaper coverage
+isa reaonable prony for the relative power ofthe to branches over taf pis
+‘The outlier inthe pre-1035 period, covering the years 1915-191, covers the yar in which the
+U.S was nett involved WWI and during which the Wilson administration fg for the League
+of Nations. ts possible that these events contsbnted to the exceptionally high relative coverage
+of the president ding this period. Finally, we shoud note that an OLS regression shows that the
+conge is highly significant statistically aswell ax substantively
+Pa
+"
+"16"	"4.6 Summary
+In this section, we have presented a varity of analyses that suggest that we can use newspaper
+coverage to measure the relative power of political actors. Fist, newspaper coverage of Congres-
+sional committees appears to offer an accurate view of which committees are more powerful, and
+more sought after by members of Congress than others. Second, newspaper coverage of members
+‘of Congress increases markedly when those members become Speaker of the House, and falls when
+they stop being Speaker. Third, city government reforms that realloeate power from the mayor
+to the city manager and city council appear to cause a sharp decrease in newspaper coverage of
+‘mayors and a simultancous rise in the coverage ofthe newly empowered actors. Fourth, a reform to
+‘the MA Exceutive Council that stripped it of many of its powers appears to produce a marked de-
+«crease in newspaper coverage ofthe council. Finally, we also showed that the passage of the RTAA
+‘appears to correspond with a sharp decrease in newspaper coverage of Congress in tarff-related
+discussions. Taken together, these five validity tests suggest, fist, that newspaper coverage is a
+‘meaningful indicator of political power and, second, that it i applicable to broad set of political
+clfices and contexts
+5 When Did State Party Committees Decline? A Brief Example
+Application
+Having validated our newspaper-based measure of power, we now offer brief example ofits value
+by applying it to study the power of state and local party committees across US. history. There
+is a pervading sense that these committees were once powerful but na longer ate, but it is difficult
+to ldentity the precise timeframe over which this decline occurred (if, indeed, it did),
+
+‘To measure the relative power of state and local party committees, we proceed as follows.
+Fist, for each state i and year t, define Party Mentionsy as the total number of times, sumaning
+cross all newspapers in the state, thatthe following occurs: the word “committee” appears after
+cither the word “Democratic” or “Republican” or \"GOP\" (within 5 words), and after one of the
+words “State” or “county” or “district” or “local” or “central” or ‘exceutive\" or “regular” or
+
+“organization” (within 5 words)\" This is designed to capture all references to committees stich
+2
+"
+"17"	"a the Ilinois Democratic state central committee, the Montgomery county Republican executive
+committee, the Téh congressional district Democratic committee, and so om.
+
+[Next foreach state {and year f, define Election Word Mentions asthe total nuauber of times
+at least two words from the following list appears in a newspaper inthe state, within 5 words one
+another: “Democrat” “Democrat,” “Republican,” “GOP? “vote,” “election” “elected,” “eam
+ppaign,” “incumbent,” “ballot,” “turnout,” and “party.” We include common variants e.g, for
+
+‘ote we also include “voter” and “voted.”
+
+We then define
+Party Mentions.
+Relative Party Mentions = Bion Wond Mention
+
+For some purposes (eg. making figures) we further normalize this measure so that it has @ mean
+of Lin each state™
+5.1 Correlation with Mayhew TPO Scores
+(On the basis of an exhaustive reading of secondary sources, Mayhew (1986) assigns “traditional
+party organization” (TPO) scores for each state on a scale from 1 (weak) to 5 (strong). As he
+notes, these scores are meant to capture the organizational strength “in the Inte 1960s\" (Mayhew
+1986: 6). If we consider the period 1966-1970, the correlation between Party Mentions and TPO
+is 0.56. If we focus just om the years 1968-1070 the correlation is even better, 0.63. This gives us
+some initial confidence in applying our measure to state party organizations.
+
+all newspapers in the state. candidates for major ices (governor, U.S. senator. and US. representative) are
+
+We have sot yet constructed thi mmanze, because we fae nol yet gute out hw to accurately make
+
+2
+"
+"18"	"5.2 Patterns of Party Committee Power Over Time
+
+Most scholars argue that state party organizations were especially powerful in the late 19th century
+For example, Reichley (1992, 120-130) notes that in the late 1800s: (3) under the leadership of
+Matthew Quay, the Pennsylvania Republican state party committee received 2% of the salaries of
+all patronage workers, giving the organization a budget of about $24 milion per year to pay about
+20,000 full-time and part-time party worker; (i similarly, the state Republican organization built,
+bby Thomas C. Platt raised sbout $20 million per year nd funded about 10,000 worker; (ii) simile
+state Republican organizations were builtin Tinos, Michigan, Ohio, and Wisconsin; (iv) smaller
+‘organizations were also maintained in some of the great plains states,
+
+Many’ city and county-based organizations continued + powerful patronage machines much
+Jonger—in some cases through the 1950s snd even into the 19608, Powerful urban party onganiza-
+tions existed in New York City, Chicago, Philadelphia, Pittsburgh, St. Louis, Baltimore, Cleveland,
+Memphis, New Orleans, Albany, Pittsburgh, Kansas City (MO), Jersey City, Hartford, New Haven,
+and « host of others: strong suburban organizations existed in Nassau and Suffolk counties (NY),
+Bucks, Delaware and Montgomery counties (PA), and elsewhere 2”
+
+Some states lad powerful state or local organizations in the late 1h and early 20h centuries
+that collapsed during or shortly after the progressive era, In California, for example, the Southern
+Pacific Rarond controlled both of the major state partis inthe late 18005, and Abe Rouf ran a
+‘powerful party machine in San Francisco in the early 1900 (by far the largest city in the state st
+the time). As (Macy 1918: 198) put it, \"California his long been classed with Pennsylania as a
+State riled by the Republican machine.\"™ By the late 1960s, however, the situation had changed
+dramatically. Mayhew (1986: 185) could confidently write: “There és no point in dwelling on
+California's wellknown Progressive tradition, which is demonstrated in its hostility toward parties,
+Ree cg Jophaon (OG, Ra OT), tw 1950
+
+ea ye, the pe nga hy operation ocr xprize. In bc te ea geet te
+a4
+"
+"19"	"Figure 6- Party Committee Power Over ‘Tine in Nine US. States. Plots
+cur evragelusel mare af ate puny comnitce power over tine or Obi
+Carin Kanna, Waco, Penh, ove Carla, Teas
+New Yon
+\
+\ i vd
+w Iw Whe.
+uty V4) Wy
+Aba, Lye VL or,
+\
+\
+4 ia
+Ny ab Vout,
+Mat Wh \ Yorn
+ate YS tl Tana, he
+Ay MA Wace
+\
+;
+ii A \
+(Mh, Wek aA nla
+WW yA PN Papa | a one
+Win. Wi WW wm
+lack of patronage, nonpartisan city elections inform and ordinarily infact, week or nonexistent
+previngt and ward organizations, and assertive individual eanddacis
+Figue 6 shows seaterplots of Relative Pay Mentions ovr tine in 9 states, Overall, the
+measure seems comistent with many salient patlers identified in the iterate. ‘The general
+dkctne ove time is lear, but in some states eg. New York, Ohio, and lini, thee stats with
+Mayhew (1086) TPO scores of§ in the Ine 1900s—the decline is much les pronounced. Our
+analysis thus suggests that there has indeed been a steady dedine inthe power of state party
+rganizations, but that this deline has been uneven acs tates,
+"
+"20"	"6 Conclusion
+
+In this paper, we have argued that we ean use newspaper coverage of relevant political actors as a
+measure oftheir political power, under certain conditions. We have introduced a dataset of over 50
+uillion historical U.S. newspaper articles, and we have validated our resulting measures of political
+‘power in a vatity of ways. We have shown that newspaper coverage of political actors deereases
+in times when they hold less powerful positions and increases when they hold more powerful ones,
+‘and we have shown that the measure correlates well with several existing measures of particular
+forms of political power
+
+We beliove the measure has several strengths that will make it valuable for future work. Fist,
+‘the measur is historically comprehensive, covering an important 1-year period of American his:
+tory. This period covers all manner of reform and upheaval in the American political process,
+including two world wats, the expansion of suffrage, Prohibition, the progressive reforms, Me-
+Carthyism, the Voting Rights Aet, and Watergate, among many others, The study of all these
+events, and many more, concerns fundamental questions about who holds power, when they hold
+it, and why they are able to do so.
+
+Second, the measure is broadly applicable; in our validity tests, we apply it to Congressional
+committees, to Congressional leaders, to the president, and to local municipal governments—a set
+‘that spans a variety of offices as well as individual actors. ‘Thove is no reason to think it eonld
+not be extended further, to other political actors and other offices in other contexts. ‘The measure
+can therefore facilitate further research in well-developed fclds (e., Congress, the bureaucracy),
+and also encourage new research in contexts that have received less scholarly attention (e.g, local
+government)
+
+Of course, the measure is not without its limitations, While in many instances coverage may
+indicate political power, it also results from other sourees, such as “celebrity” coverage. In many
+applications this may mainly add noise to the measure, which is not overly problematic when it is
+used as dependent variable in an analysis. In eases where the political actor or office in question
+|uas significant personal appeal or celebrity status, however (e.g, the U.S. president) the measure
+is likely to break down. Researchers who apply our measure in other contests must always take
+care to validate its use and consider alternative explanations for how the measure fuetuates.
+
+%
+"
+"21"	"Because power is at the core of political science, measuring it in data is an important task
+for empirical researchers. The newspaper-based measure we have put forward in this paper offers
+researchers a chance to study power in American polities in a variety of ways. In addition, the
+arguments we have made, and the validity tests we have performed, should aid researchers in
+constructing similar newspaper-based measures for other countries and other time periods, ‘Thoth
+newspapers have many reasons to publish what they do, the overal fequeney with which they cover
+political actors indicates who is powerful
+
+a
+"
+"22"	"References
+
+Bachrach, Peter and Morton $ Barste, 1962, “Two Faces of Power.” American Politial Seience
+Review 56(4}:947 952.
+
+Bailey, Michael A., Judith Goldstein and Barry R. Weingast. 1907. “The Institutional Roots of
+‘American Trade Policy: Polites, Coalitions, and International Trade.” World Politics 49:300
+8.
+
+Banzhaf, II, John F. 1968. “One Man, 3812 Votes: a Mathematical Analysis of the Electoral
+College.” Villanova Law Rev. 13:30,
+
+Baron, David. 2006, “Persistent Media Bias.” Journal of Public Economics 26
+
+Boudreaux, D.J. 2008. Globalization. Greenwood Press
+
+Bovitz, Gregory, James Druckman and Arthur Lupia. 2002. “When Can a News Organization
+Lead Public Opinion? Ideology versus Market Forces in Decisions to Mako News.” Public Choter
+113427152.
+
+Brants, Kees and Philip van Praag, 2006. “Signs of modia logie: Half a century of politcal com-
+‘munication in the Netherlands.” Jaonost-The Public 13(1}:25-40,
+
+Bullock, Charles and John Sprague. 1969, “A Research Note on the Committee Reassignments of
+Southern Democratic Congressmen.” The Journal of Polities 31(2):198- 512.
+
+‘Clinton, Joshua, Simon Jackman and Douglas Rivers. 2004. “The Statistical Analysis of Roll Call
+Data.” American Pohtieal Science Review 98(2):355-370
+
+Demsetz, Hatold and Kenneth Lehn, 1985, “The Structure of Corporate Ownership: Causes and
+Consequences.” Journal of Political Beonomy 98(6):1155 1177
+
+Fergusson, Ian F. 2015. “Trade Promotion Authority (TPA) and the Role of Congress in Trade
+Policy.\" Congressional Research Service Report.
+
+Galtung, Johan and Mari Holmboe Ruge. 1965. “The Structure of Forcign Nows: The Presenta-
+tion of the Congo, Cuba and Cyprus Crises in Four Norwegian Newspapers.” Journal of Peace
+Research 2(1):649.
+
+Gontzkow, Matthew and Jesse M. Shapiro. 2006, “Media Bias and Repntation.” Journal of Political
+Beonomey 114(2}:280-316.
+
+Gontzkow, Matthew and Jesse M. Shapiro. 2010. “What Drives the Media Slant? Evidence from
+US. Daily Newspapers.” Beonometrica 78(1):35-TL
+
+Grimmer, Justin and Brandon M, Stewart. 2013. “Text as Data ‘The Promise and Pitfalls of
+‘Automatic Content Anslysis Methods for Political Texts.\" Political Analysis pp. 1-31
+
+Groscelose, Tim and Charles Stewart, IIL 1998. “The Value of Committee Seats in the House,
+1917-91.\" American Journal of Political Seience 42(2):453-474
+
+Groscelose, Timothy and Jeffrey Milyo. 2005. “A Measure of Media Bias.” The Quarterly Journal
+of Beonomies 120(4):1191- 1237.
+
+2s
+"
+"23"	"sssocnted with power. Galtung and Ruge (1965) identifi a numberof key factors that affect the
+sews value’ of « potential story. ‘Two of these factors are the site or impact of the story snd
+the prominence of the actors involved, Events and actions that have the potential to allt large
+number of people have greater news vali, as are stories involving elite actors powerful nations,
+people, and organizations. Almost by definition, actors with more power have more opportunities
+to take actions that affect a large number of people, and are therefore more liksly to generate
+newsworthy events! We bald on the logic ofthis previous work in developing our measure
+‘The paper is organized as follows. Fist, we provide «conceptual overview of our measurement
+approach, defining the type of power we believe newspaper coverage can capture, discussing obsta-
+cles to the use of newspaper coverage, and explaining the interpretation ofthe quantitative scale we
+develop. Following this, in the next section we describe the dataset we have collected and the steps
+‘we have taken to process the raw text for analytic purposes. Subsequently, we validate the measure
+ting five disparate eases: (3) comparing the relative coverage of congressional committes tothe
+Aesirability of committees based on meter transfer requests (i) examining coverage of meubers
+of Congress before, during, and after they are Speaker of the House: (ii) estimating the change
+in relative coverage of mayors in cities that change from a “strong mayor” {mayor-counel) to a
+“weak mayor\" (connci-manager) form of government; (iv) investigating the effect of the passage
+of a reform that stripped the Masiachusetts Exeentive (Governor's) Counel of most offs powers
+co the relative coverage of the Council; snd (v) looking at the relative caverage ofthe President in
+the context of tariff policymaking authority before and after the Reciprocal Trade Agreements Act.
+Hoving validated the measure, we briefly apply it to study the decline of state party organizations
+in order to showcase its valu, Finally, we conchide by diseusing how researchers can apply the
+measure to study a variety of questions in many contexts
+\"Siang olas vs mle Wis pin ovr ie critical of the din So, eg. Rosco (75 75): “Big ‘names
+2
+"
+"24"	"Hoggard, Stephan. 1988. “The institutional foundations of hegemony: explaining the Reciprocal
+‘Trade Agreements Act of 1934.” International Organisation 42(01):01-19,
+
+Hopkins, Daniel J and Gary King, 2010, “A Method of Automated Nonparametric Content Anal-
+ysis for Social Science.” American Journal of Political Seience 54(1):229-247
+
+Hopmann, David Nicolas, Claes H. de Vreese and Erik Albaek, 2011, “Incumbeney Bons in
+lection News Coverage Explained: The Logies of Political Power and the Media Market.”
+Journal of Communication 61(2):261- 282
+
+Irwin, Douglas A. 1998. From Smoot-Hawley to reciprocal trade agreements: changing the course of
+US trade policy in the 1930s. In The defining moment: The Great Depression and the American
+economy in the twentieth contury, University of Chicago Press pp. 325-352.
+
+Irwin, Douglas A. 2009, Free Trade Under Fire, Princeton University Pres,
+
+Kolin, Kin Pridkin and Patrick J. Kenney. 2002. “The Slant of the News: How Buitorial Eudorse-
+‘ments Influence Campaign Coverage and Citizens’ Views of Candidates.” American Political
+‘Science Review 9:381-94
+
+Kaplan, Raward $. 1996. American Trade Poly, 1928-1995. Number 172 Greenwood Publishing
+Group.
+
+Larcinese, Valentino, Riceardo Puglisi and James M. Snyder, Je. 2007. “Partisan Bias in Beo-
+‘omic News: Evidence on the Agenda-Setting Behavior of US. Newspapers.\" Journal of Publi
+Begnomies 95(9}:178- 1189,
+
+Laver, Michael, Kenneth Benoit and John Garry. 2008. “Extracting Policy Positions from Political
+‘Texts Using Words as Data.” American Political Seience Review 97(2):11-331,
+
+Macy, Jesse. 1918, Party Organisation and Machinery, New York: The Century Co.
+
+Mayhew, David R. 1986. Placing Parties in American Politics: Organization, Blectoral Settings,
+‘and Government Activity in the Twentith Century. Princeton University Press
+
+MeQuail, Dennis. 1992. Media Performance: Mass Communication and the Public Interest, London!
+Sage.
+
+Mullainathan, Sendhil and Andrei Shleifer. 2005. “The Market for News.” American Beonomie
+Review 95(4):1031-1058.
+
+Munger, Michael C. 1988, “Allocation of Desirable Committee Assignments: Extended Queues
+versts Committee Expansion.” American Journal of Political Seience 32(2):317-34,
+
+Poole, Keith T. and Howard Rosenthal. 1985. “A Spatial Model for Legislative Roll Call Analysis.”
+American Journal of Political Science 29(2):357 384.
+
+Puglisi, Riccardo and James M. Snyder, Je. 2011. “Newspaper Coverage of Political Scandal.”
+Journal of Polites 73(3):981- 950.
+
+Ray, Brice A. 1982, “Committee Attractiveness inthe U.S, House, 1963-1981.\" American Journal
+‘of Political Science 26(3):609- 613
+
+Roshco, Bernard. 1975. Newsmaking, University of Chicago Pres
+
+»
+"
+"25"	"Sehiieta, Karen E. 2000. “The institutional foundation of US trade poliey: Revisiting explanations
+for the 1934 Reciprocal Trade Agreements Act.” Journal of Policy History 12(04):417-444,
+
+‘Shapley, Lloyd S. and Martin Shubik. 1954. “A Method for Evaluating the Distsibution of Power
+in a Committee System.” American Political Seience Review 48(3):787 72
+
+Shoch, James. 2001. Trading blows: Party competition and US trade policy in a globalizing ea
+‘Univ of North Catolina Press
+
+Shoemaker, Pamela, Martin Bichholz Director, Bunyi Kim and Brenda Wrigley. 2001. “Individual
+‘and Routine Forces in Gatekeeping.” Journaliem and Mass Communication Quarterly 7(2):2%3
+246.
+
+‘Tausanoviteh, Chris and Christopher Warshaw. 2013. “Measuring Constituent Poliey Preferences
+in Congress, State Legislatures, and Cities.” Journal of Politics 75(2):300-342,
+
+‘Tausanovitch, Chris and Christopher Warshaw. 2014, “Representation in Municipal Government.”
+American Political Science Review 108(03):605-641
+
+‘Trench, Anke, 2009. “Politicians in the Media: Determinants of Legislators’ Presence and Promi-
+rence in Swiss Newspapers.” The International Journal of Press/Poitcs 14(1}:67-
+
+0
+"
+"26"	"A. 1 Information on Dataset
+
+In this section, we describe in detail the dataset on newspapers that we have compiled,
+
+A. LL Summary of Data
+
+‘The dataset consists of » stratified sample of pages printed in US. loeal newspapers initially pub-
+lishod during the period 1877-1977 and later reproduced by Newspapers.com. ‘The stratification
+‘works as follows. As now pages are added to the dataset, they are assigned a number based on the
+newspaper ise in which they belong, We sample all pages that end with the integers 1.2, ....
+7 Ab any given moment in time, we thus sample 70% ofthe existing newspaper data, but because
+new data is added all the time, we cannot offer a precise percentage for future dates.
+
+Bach page in our dataset isa string of characters and spaces extracted by Newspapers.com from
+scanned copies ofthe original newspaper pages sing OCR techniques, and each page is connected
+to the following meta data: name of newspaper, publication date, page number, state, county and
+city of publication. In total, the dataset contains approximately 50 million unique pages from 2700
+newspapers distributed across approximately a thousand counties in the US,
+
+A. L2- Geographical Coverage
+Using this metadata we count the number of pages and newspapers in each state and report this
+in the map in Figure A.1. The dataset geographically covers all states, and approximately a third
+of all counties appear in the dataset at some point during the studied period. The dataset roughly
+rolleets the population density over the studied period. ‘The states that most frequently appear
+in the dataset are PA, TX, CA, IL, OH (ranging from 3-6 million pages), whereas less populated
+states such as WY, ME, RI, VT each contribute with approximately 100,000 pages. Table A.1
+‘reports the exact mumnber of pages for each state.
+A. LS Temporal Coverage
+Using the publication dates obtained from the meta data, we count the total number of pages
+published each year in the four Census regions. ‘These numbers are reported in Figure 4.2. The
+sraplh illustrates that the mmber of newspaper pages increase over the frst 30-0 years, then
+stagnates until the late 1940s and then rapidly grow over the rest of the studied period. ‘The
+‘temporal patterns are fairly consistent across regions
+
+a
+"
+"27"	"Figure A-1 - Geographical Distribution of Pages and Newspapers in
+Dataset. Darker sade areas reflect ree pages Te gts on the ap te
+port the otal nine of wnigue newspaper inthe stat tat appear in the sate
+q pS y
+
+Figure A.2— Yearly Number of Pages in Sample by Region.
+
+8
+
+g 4
+8 Ak
+3 ie
+iu fy
+3 wf
+38 (er
+es an eo
+2s eo Nn Lah
+23 o WS
+38 wo
+
+ad a
+1er7_wee? wear ior atv ar War iar a7 19e7 1897
+Year
+aaa Mawes Wes
+== south non east
+2
+"
+"28"	"Hil HLL HE) Hille E:
+ss
+"
+"29"	"‘Table A.2— The 50 Most Cominon Newspapers in Dataset.
+‘The Ogden Standard-Ksaminer 09.659 1888 asm UT
+Staind Speaker aise? loel amd PA
+uw
+"
+"30"	"A. 14 Commands Used to Process Text
+It is impossible to extract lange amounts of text from old newspapers without any’ errors. Smieared
+ink, pietures, poor paper quality, variation in font types, dirty scanners as well as types in the
+‘original articles are among the sources of errors. Most of these errors will be random and add
+noise to the word counts, To reduce this noise, we follow the common approach of using regular
+expressions when we search for words. We carefully ead through a lange number of newspaper
+pages and compared the OCR text with the original newspaper page. Based on this material, we
+identified a number of common errors and use the regular expressions ontlined in Table A.3 to
+catch these errors. Before searching in the string, we substitute all upper case characters to lower
+‘Table A.8 - Regular Expressions.
+Error Type Correct Character OCR Regex Example
+Til Substitution © © ie sTeduate
+v y byl exeeutifyyle
+° © ox} foc}mmittee
+i 1 fil ‘committee
+t 1 td comitllee
+b bob) [blucdget
+5 vi [gvinl ——digyiglet
+£ a) oftice
+a 0 [ato senfanolte
+1:2 Substitution m ra [m(en)] _cofa(en)ta(rn)]ittee
+15
+"
+"31"	"A. 2 Additional Analyses
+In this section we offer follow-up analyses and robustness checks to extend the estimates presented
+in the paper
+A. 24 Additional Results on Mayoral Reforms
+In this subsection, we perform two additional analyses on the effets of city reforms that stripped
+‘the mayor of powers and reallocated them to the city manager. First, in Figure A.3, we replicate
+Figure 3 from the body of the paper but employing city name filtering. Specially, we limit the
+tmentions of the word “mayor” to only those that appear near the mention of the mayor's home
+city. This removes false positives that occur when newspapers discuss other cites’ mayors. As the
+plot shows, we continue to find the same pattern of results: in fact, if anything, the decrease in
+‘the coverage of mayors and the increase in the coverage of city managers is even more pronounced
+‘than before
+
+Second, we also re-do the formal dift-in-dilf estimation from Table 2. ‘The diff-in-dif relies on
+‘the so-called “parallel trends\" assumption. Here, we assess the robustness of our results by relaxing,
+this assumption. Specifically, we include linear, city-specific time trends. Table A displays the
+results, As it shows, the results are nearly identical to those in the paper
+A. 2.2 Additional Results on MA Council Reform
+In Figure 4, we showed how the coverage of the MA executive council changed after a reform
+stripping it of many ofits powers. In that fgure, we used all available newspaper data. Now, we
+replicate the analysis but only using the Boston Globe, to make sure the results are not driven by
+‘our dataset. We thus recaleulate our relative coverage measure using ouly mentions in the Boston
+Globe. Figure Aut presents the results. We contine to see a sharp drop after the reform,
+
+6
+"
+"32"	"‘Table A.4 — Impact of Switch from Mayor-Couneil to Council-Manager
+City Government. Results from a difference-n-difrences design suggest that
+the reform eases large decrease inthe relative coverage of mayors
+‘All Mentions Using City Namo Filter
+Relative Relative Relative Relative
+Coverage of Coverage of Coverage of Coverage of
+Mayor City Manager Mayor City Manager
+Connell Manager “0.26 036 “030 oan
+Govt Fort (0.08) (0.08) (oar) (0.06)
+N 2601 201 wat iat
+City Fixed Eifets Yes Yes Yes Yew
+Year Fixed Bifects Yes Yes Yes Yes
+City-Specie Time Trends Yes Yes Yes Yeu
+“Giandard errors, clustered by city rein parentheses
+av
+"
+"33"	"Figure A.$ _ Relative Coverage of City Offices Over Time: Filtering
+Results by City Name. Here we replieate the analysis from Figure 3, but we
+filter mentions of mayors to only inch those where the wane ofthe majors ety
+Js mentioned nearby in the text. Agaln ity government reforms are sen to reduce
+the measured power af mayors and inerease that ofeity managers and city connell,
+members,
+
+8
+"
+"34"	"2 A Measure of Political Power From Newspaper Text:
+
+In this section, we lay out the iden of using newspaper coverage to measure political power, We
+explain the logic of our measure, we discuss what kind of power it is Iikely to tap into, and we
+dlscuss its nits and how to interpret i.
+
+2.1 Relative Newspaper Coverage to Measure Relative Power
+
+‘There are many kinds, and many definitions, of power. Newspaper coverage will nly retect some
+of these? Shadowy actors who use their influence to avoid media scrutiny, for one obvious example,
+cannot be directly studied using newspaper coverage’* But a simpler kind of political power will
+inevitably reveal itself im how often newspapers men tion people and offices. In particular, what
+‘we will be able to measure is whether, and to what extent, various politi actors and offices
+possess the necessary resources and authority to influence political outcomes, i, to “matter” for
+‘the political process. To make this idea clearer, consider state party committees in the ently 20¢h
+century. Many of these committees possesed important resources: they could choose candidates to
+stand for fice, marshal eampaign support for eandidates, and, once elected, could direct economic
+resources to loyal party members through patronage. As a result ofall these resources, state party
+committees were, in many eases, “powerful”
+
+A direct consequence ofthis kind of power is newsworthiness. ‘Though newspapers have latitude
+to choose what they report on—and a variety of biases may’ lead them to omit certain stories
+economic necessity and the logic of competition, as well asa basi deste to cover the news, compel
+‘them to, by and large, report on matters of consequence. Newspaper coverage of political nctors
+and offices therefore reveals who is involved in matters of politial consequence.*
+
+“Tel mts of cnn pct henrch sad Wachaw (i) salen ad Wan G0
+ferexamplespeakony tothe txperof nce sve sepondent are sel ae ean ater. Rell aling (into
+Bi ted ne etre Tw spoches hve pon sey apie ae melt
+“Archer exane wold be the eco face of powers dscaued a Bachinch ad Barat (1982)
+
+SNe Ata lla sec tli ci rs a
+Screg ss putin Properties the smut te pli palsy (og Mec (120),
+2) ews factr? and cone over newswthnes of ore ataes one inpertant and prominent plans
+
+7
+"
+"35"	"Figure A.d Relative Coverage of the Massachusetts Executive Couneil
+Over Thne: Boston Globe Coverage. ‘The tefonn that sipped the Mas
+sachuuets Executive Coutell of its powers appears to decrease the coverage ofthe
+Excoutve Counel relative to that of the Governor, who abworbed the power previ
+‘onal held by the counel
+
+Note: ‘The plot omits the years 1959-1965, during which dscusion of the counell
+Spiked because ofthe seandal
+
+9
+"
+"36"	"Cw meas cptses is Hen ‘This relative means: mensng ving om el
+comparions made smongreevnt actors fs, To make ur iden pci, agi two members
+cf state legatr: al then A ad B. We can lean someting about the lative indenee of
+Aan B by making ompsons af he om.
+
+Melati Powe oA = Era Meaty CE Nese TTT:
+
+Attongh ewspaper wl have my somons tall abut and overlie
+nore than i Hy that A matters more fo the pole! pros tha B, and is deere
+inte poeta
+22 When Does Press Coverage Fall To Indicate Political Power?
+Naturally my other factors ala et news vues, Among the, the entertainment vue of
+‘he sory sens partial prt Sore that say avr subjets beats of i pei
+entrainment value wil ofr ws about politi! power, even ifthe sujet ar eli! n
+nature? ‘Thi tale cones ou do o only mn mportan suet of al pti topics Ung
+newspaper coverage 0 measure power ibs Jor alr who ar inherently bring to most clizns
+For example xcept perhaps oa small number of pata unio, pola party organizations
+an congsina commits ae not entering. ‘This probably tre even fr congress
+sty loader nd mayor fal ut the gt tien!
+
+Supls ther of alain lo sgt «pole isk, although one hat can be it
+soted, The pos sy favor coveig politi o ollcl groups with whom they hae salar
+calito and market intrest, a procs hat may tem rom the esol preferences of media
+uth lites (Dense an La 1985; Bovite,Drucman and Lapa 202) or of eters an jou
+Sia ctr and mathe intent fegssuppivside tears av ngued by Bemsets and en (85) Bove
+
+Braman ann ih Rear ons nnn spl
+‘
+"
+"37"	"nls (Baton 2006.7 If this is the ease, then & measuze based on newspaper coverage cannot be
+interpreted simply as « measure of power, asthe frequency of newspaper mentions say also be
+driven by the ideological preferences of those producing the news. However, the influence of any
+present supply-side effets can be reduced by ensuring a adequately balanced representation of
+newspapers (in our ease, of both Democratc- and Republiat-leaning newspapers) in the sample
+
+Issues sch as these aio constrain the ways researchers cai se our newspaper-based meas.
+Raw counts of the mentions of political actors or ofices are likely to be brondly informative
+expecially when aggregated overlong time periods but because of the many other seasons for
+coverage they will not be pci. As a result, the newspaper-hased mianre is likely to be wore
+suseful as a dependent variable in analyses where exogenous variation in explanatory variables of
+interest is present: this exogenous variation will help ensure that findings are not driven by the
+soi in the measure.
+2.8 Making Valid Comparisons
+‘The many other diferences in news coverage also makes comparing the measure across actors and
+clfces tricky. If we were to find, for exabnple, that mayors seccive more coverage than governors,
+‘we could not immediately conclide that mayors are more “powerful” than governors. Perhaps
+newspapers cover mayors more becatse lca news is valuable to readers, nstond. To he meaningful,
+any such erosvotice (or erose-actor, oF eras-time) comparison must hold other factors equal. In
+seueral, we do this by muking withi-contest, withintine comparisons. Rather than compare
+sayors to goveruons, we might compare a mayor to her corresponding city council, for example.
+‘These two units occupy the same space at the same time, and as «nest, differences i their local
+newspaper coverage are likely to be informative. While ensuring valid comparisons docs limit the
+applicability of our measure, it can stil tll us quite bit. ‘The relative powers of a variety of
+sctors and offices at the same time and in the same place are at the heart of many of the deepest
+questions about political institutions
+
+Another way to make valid comparisons relies on quasi-randons variation ia an explanatory
+‘variable, rather than on directly holding tte and contest fixed. Imagine for exanple «randomized
+itor no ols tothe ons ge Ka Ren (208) fd ence hat gut he sagt
+
+5
+"
+"38"	"experiment where the outcome is our newspaper-based measure. Though the reasons for newspaper
+coverage will vary over time and serass space, the randomization from the hypothetical experiment
+‘would ensure that this variation is unrelated, in expectation, to the treatment we are intersted
+in studying. AAs a result we can use the measure for a variety of questions even when we eanmot
+hold time and context fixed. Examples of this might include difference-in-diferences designs that
+leverage state-level variation in institutional structure, such as studying the effets of term limits
+‘or campaign finance reform on the power of a variety of state political offices and actors.
+
+24 Interpreting Relative Coverage: Cardinal or Ordinal?
+
+ven once we have narrowed our focus toa set of comparisons that our newspaper-based measure
+‘can examine in a valid mannor, we still must understand how to interpret resulting estimates. We
+think of our measure as being largely ordinal-that is, while we can learn a great deal about the
+‘ative power of actors or offices by measuring their relative newspaper coverage, itis not clear that
+‘the rate of coverage conveys cardinal information about relative power. Put differently, alshough
+ir many cases the relationship between coverage and power is monotonic, there is uo reason to
+suspect that itis linear, IFA receives 50% more coverage than B then A is probably mote powerful
+‘thon B, but it is unlikely that A is exaetly 50% more powesful than B.
+
+In many cases it is not even clear what the statement “A is 50% more powerful than 1\" even
+means. That is, in many eases it will be impossible to generate a widely accepted cardinal measure
+‘of power because there is not even a widely accepted definition of cardinal power. Almost everyone
+‘would agree that the U.S. President is more powerful than any individual US. Senator or US.
+House Representative, But how much more powerful? One hundred times as powerful, ten times
+as poworfil, twice as powerful?
+
+Power cat sometimes he defined in cardinal terms, but only in particular cases and in the
+context of a highly stylized model. In weighted voting models, for example, the Shapley-Shubik
+index (Shapley and Shubile 1954) of the Banzhaf index (e.g, Banzhaf 1968) yield cardinal indices
+cof “power.” But these indices focus solely on power that derives from voting—specifically, the
+probability that a given player will turn losing coalitions into winning coalitions. ‘They ignore
+considerations such as the power to propase, the ability to bargain or to vote strategically in
+dynamic settings, or informational asymmetries. They are limited in scope as wel, being designed
+
+6
+"
+"39"	"nuinly to study “divide the dollar\" polities. Other models, such as the Baron-Feejobn model,
+‘add proposal power and bargaining, but make assumptions that many fnd unpalatable, eg, thst
+proposer ave chosen randomly. ‘There is even less agreement about how to define and movel other
+sources of power, suchas informational rents or the value of the “bully pulpit.”
+
+\"The upshot i that in almost all circumstances, an ordinal measure of power is all we can hope
+for
+2.5 Summary
+In this section, we have laid out our concept of using newspaper coverage to measure the relative
+power of actors and offices within given contests and time periods. The measure is not universally
+pplicable—in part beeanse overly salient subjects can accrue lange excesses of “entertainment
+coverage—but it speaks to the power of many kinds of ofices and actors, Having discussed the
+reasure theoretically, we now turn to the data we use to apply i
+3 New Dataset on Newspaper Text
+‘We collected our newspaper text from Newspapers.com, This archive contains the text of millions
+of newspaper pages generated vin optical character recognition (OCR). Currently, the Newspa-
+pers.com archive has almost 9% million pages from over 3.500 newspapers (they are constantly
+‘adding new material). OF these, Newspapers.com has a large amount of material—at least 10,00
+‘ages covering five oF more years—for about TOO newspapers. In this paper we use a stratified
+sample of 50% fom the archive. We focus on the period 1877-1977, which contains the bulk of the
+data
+
+\"The OCR text is messy and requires considerable cleaning. Common errors are: the letter“
+is read but the actual letter is\" and isa versa; a\" vx. Su\"s 4 vs. TY wa. Hs SE sa!
+vs Sy\" and Sim\" vs. Si.” Hyphenation is also a serions ssue—since newspaper columns are
+narzow many words must be split and hyphenated. Extra spaces and stray marks are also common
+ihe Copa iela Aco 17S and Copigt Ter Evenson Act of 198 (ako krona the Sonny How Copight
+conmihtsigtenty. Newspaper iar peal dfn werk ta tie\" epi
+
+1
+"
+"40"	"‘We deal with these by using regular expressions in our search strings and text processing. Using
+the cleaned text, we generate counts for a variety of relevant words and terms, depending on the
+political ator or office under studs:? ‘Though the remaining text surely contains errors that prevent
+us from perfectly capturing word frequencies, the validity tests below indicate that the remaining
+crrors are not overly problematic, Table A.3 in the Appendix provides the exact cleaning rules we
+use to process the text.
+
+4 Validating the Measure Using Powerful Actors and Offices
+
+4.1 Congressional Committees
+
+In this subsection, we evaluate our mensure inthe context of congressional committes, Commnit-
+tees are not equally powerful. ‘The Comittee on Ways and Means, with its responsibility over
+‘xzation, tarts, and other evenue-raising nctions, has more jurisdiction, controls more money, and
+‘wields greater influenceall i all, more power—than for example the (now defunet) Committee
+‘on Merchant Marine. ‘This power diferential is also reflected by committee transfer requests. Some
+committee assignments are more desirable than others, due to committees’ differences in power and
+prestige, As Ray (1982) observes, members typically strive to obtain assignments to committees
+they regard as stronger, and give up assignments they regard as weaker.
+
+During the time period of our data, both pasties deemed the Committees on Ways and Means,
+Appropriations, and Rules as the “exclusive” committees of the House. In general, members of
+exclusive committees cannot also serve on nonexclusive committees? ‘The Yexclusive™ committee
+designation further reflets the desirability and power ofthese committees, These three committees,
+‘then, should rank at oF near the top of any power ranking of Congressional committees,
+
+We use the Groseclose an Stewart (1908) rankings as an alternative measure to validate our
+power measure, ‘Their method, building on the techniques used by Bullock and Sprague (1969) and
+‘by Munger (1988), constructs rankings based on the value members place on committees as reflected
+by committee transfers. Groseclose and Stewart do not claim to measure power, but instead aim
+Sick empl Ginetta Sone (2019 Hope nt Rng 200), sl ay Brot ne Cary 08)
+
+Connie, Heian naers xa serve on he Hales commen el water sag cone the
+8
+"

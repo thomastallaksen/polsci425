@@ -12,5 +12,5 @@ datalist_png <- lapply(filelist_png, function(x)ocr(x))
 
 df <- do.call("rbind", datalist_png) 
 
-lapply(datalist, function(x)write.table(x, paste(x, ".txt", sep = "") , sep="\t"))
+#lapply(datalist, function(x)write.table(x, paste(x, ".txt", sep = "") , sep="\t"))
 

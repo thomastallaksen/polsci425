@@ -4,13 +4,18 @@ library(pdftools)
 
 setwd("~/Desktop/OCR/Test/pdf")
 
+norwegian <- tesseract("nor")
+
 filelist_pdf <- list.files(pattern = ".*.pdf")
 datalist_pdf <- lapply(filelist_pdf, function(x)pdf_convert(x, dpi = 600))
            
 filelist_png <- list.files(pattern = ".*.png")
-datalist_png <- lapply(filelist_png, function(x)ocr(x))
 
-df <- do.call("rbind", datalist_png) 
+ocr_to_txt <- function(x){
+  txt <- ocr(x, engine = norwegian)
+  write.table(txt, paste("~/Desktop/OCR/Test/txt/", x, ".txt", sep = ""))
+}
 
-#lapply(datalist, function(x)write.table(x, paste(x, ".txt", sep = "") , sep="\t"))
+lapply(x, function(x)ocr_to_txt(x))
+
 

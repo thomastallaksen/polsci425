@@ -1,0 +1,19 @@
+Notes lecture 3
+
+Vector Space Models
+
+Documents live in a space. We calculate distances etc. to look at similarities between texts. 
+Geometry
+Building block for clustering, supervised learning and scaling. 
+
+Different measures of distance:
+- Euclidian
+- Manhattan
+- Mirowski-family
+
+Mahalanobis Distance is a way of reweighting or scaling. 
+
+Cosine similarity
+- Max: the document in itself
+- Min: No common word
+The most popular measure of similarity. 
